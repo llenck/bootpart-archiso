@@ -1,0 +1,6 @@
+base
+linux
+mkinitcpio
+mkinitcpio-archiso
+syslinux
+dhcpcd
